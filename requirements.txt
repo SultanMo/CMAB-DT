@@ -1,0 +1,12 @@
+numpy
+scipy
+optuna
+fire
+jstyleson
+holoviews[recommend]
+as_list
+pandas
+cloudpickle
+SMPyBandits
+runstats
+multiprocess
